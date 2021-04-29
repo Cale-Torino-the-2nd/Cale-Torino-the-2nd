@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is my repo archive account
+
+- 🔭 I’m currently working on Mini GPS trackers, Free TAK ecosystem and C# helper apps.
+- 🌱 I’m currently learning to code better :), Farm, Weld, Shoot, play guitar, build electronics, make better technical docs etc. etc.
+- 📫 How to reach me: cale@techrad.co.za , cale.torino@safe-tvigil.com and cale@iq-blue.com
+
 <!--
 **Cale-Torino-the-2nd/Cale-Torino-the-2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
