@@ -2,9 +2,10 @@
 
 This is my repo archive account
 
-- 🔭 I’m currently working on Mini GPS trackers, Free TAK ecosystem and C# helper apps.
-- 🌱 I’m currently learning to code better :), Farm, Weld, Shoot, play guitar, build electronics, make better technical docs etc. etc.
-- 📫 How to reach me: cale@techrad.co.za and cale@iq-blue.com
+- 🔭 I’m currently working on my growing business (full time) but I spend other available time on: Mini GPS trackers, LoRa, 433/868 RF, ham radio, remote sensors, WinTAK plugins, the Free TAK ecosystem, C# helper apps and other electronics maker projects.
+- 🌱 I’m currently learning to code better :), farm, weld, shoot, play guitar, build electronics, make better technical docs etc.
+- 📫 How to reach me: cale@techrad.co.za and cale@iq-blue.com (initial contact via ~email so I have a record to go back to :) )
+- https://github.com/Cale-Torino
 
 <!--
 **Cale-Torino-the-2nd/Cale-Torino-the-2nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
